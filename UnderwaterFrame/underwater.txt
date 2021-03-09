@@ -60,7 +60,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-15.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-16.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-19.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-20.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-20.webp"
     ],
     
   "landscape_letter1":[
