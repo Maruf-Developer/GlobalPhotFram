@@ -1,0 +1,74 @@
+{
+
+   "square":[
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_10.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_11.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_13.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_14.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_15.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_16.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_17.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_18.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_19.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_20.webp"
+   
+    ],
+    
+   "portrait":[
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-10.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-11.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-13.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-14.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-15.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-16.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-17.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-18.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-19.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/portr/frame-20.webp"
+   
+    ],
+   
+   "landscape":[
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-10.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-11.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-13.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-14.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-15.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-16.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-17.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-18.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-19.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-20.webp"
+   
+  ]
+}
