@@ -1,8 +1,67 @@
 {
-  "portrait":[
-    "https://raw.githubusercontent.com/"
+  "square":[
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-10.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-11.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-13.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-14.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-15.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-16.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-17.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-18.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-19.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/squr/frame-20.webp"  
     ],
+    
+  "portrait":[
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-10.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-11.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-13.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-14.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-15.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-16.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-17.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/port/frame-18.webp"
+   
+    ],
+    
   "landscape":[
-     "https://raw.githubusercontent.com/"
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-10.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-11.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-13.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-14.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-15.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-16.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-17.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-18.webp"
     ]
 }
