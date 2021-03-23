@@ -1,8 +1,79 @@
-{
-  "portrait":[
-    "https://raw.githubusercontent.com/"
+{ 
+  "square":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-12.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-13.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-14.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-15.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-16.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-17.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/squr/frm-20.webp"
+    
     ],
+  "portrait":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/port/frame-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/port/frame-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/port/frame-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/port/frame-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/port/frame-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/port/frame-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/port/frame-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/port/frame-8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/port/frame-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/port/frame-10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/port/frame-11.webp"
+    
+    ],
+    
   "landscape":[
-     "https://raw.githubusercontent.com/"
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-16.webp"
+    ]
+    
+  "landscape1":[
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-16.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-18.webp"
     ]
 }
