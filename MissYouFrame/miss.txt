@@ -56,7 +56,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-16.webp"
     ],
     
-  "landscape1":[
+  "landscape_letter1":[
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-3.webp",
