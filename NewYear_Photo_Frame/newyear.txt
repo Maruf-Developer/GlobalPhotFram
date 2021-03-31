@@ -57,7 +57,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/landscape/frame-5.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landscape/frame8.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/landsc/frame-11.png"
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/landsc/frame-11.webp"
 
     ],
      "landscape_letter1":[
