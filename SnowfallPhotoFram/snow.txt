@@ -1,8 +1,54 @@
-{
-  "portrait":[
-    "https://raw.githubusercontent.com/"
+{ 
+  "square":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-12.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-13.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-14.webp"
     ],
+    
+  "portrait":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-8.webp"
+    
+    ],
+    
   "landscape":[
-     "https://raw.githubusercontent.com/"
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-16.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-18.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-19.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/land/frm-20.webp"
+     
     ]
 }
