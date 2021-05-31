@@ -1,8 +1,27 @@
 {
   "portrait":[
-    "https://raw.githubusercontent.com/"
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/portrait/frm_img3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/portrait1/frm-img40.webp"
     ],
+
+ "square":[
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/square/frame-1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/square1/frame-28.webp"
+    ],
+
   "landscape":[
-     "https://raw.githubusercontent.com/"
-    ]
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-20.webp"
+    ],
+    
+  "landscape_letter1":[
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-22.webp"
+  
+  ],
+  "landscape_letter2":[
+  
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-21.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-25.webp"
+  ] 
 }
