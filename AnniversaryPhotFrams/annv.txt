@@ -1,8 +1,71 @@
 {
-  "portrait":[
-    "https://raw.githubusercontent.com/"
+  "square":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-12.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-13.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-14.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-15.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-16.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-17.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-20.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-21.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/squr/fram-22.webp"
     ],
+    
+  "portrait":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-12.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-13.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-14.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-15.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-16.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-17.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-20.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-21.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/port/fram-22.webp"
+    
+    ],
+    
   "landscape":[
-     "https://raw.githubusercontent.com/"
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-12.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-13.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-14.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-15.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/AnniversaryPhotFrams/land/fram-16.webp"
     ]
 }
