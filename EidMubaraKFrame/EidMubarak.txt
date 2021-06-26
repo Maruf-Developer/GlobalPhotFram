@@ -1,0 +1,41 @@
+{
+  "portrait":[
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame8.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame10.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame11.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame12.png"
+    
+    ],
+  "landscape":[
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme2.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme3.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme4.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme5.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme8.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme9.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme10.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme11.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme12.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame2.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame3.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame4.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame5.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame8.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame9.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame10.png"
+    ]
+}
