@@ -1,8 +1,67 @@
 {
   "portrait":[
-    "https://raw.githubusercontent.com/"
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-12.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-13.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-14.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-15.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-16.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-17.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-20.webp"
+    
     ],
+    
   "landscape":[
-     "https://raw.githubusercontent.com/"
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-16.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-18.webp"
+    ],
+    
+  "landscape1":[
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-16.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-18.webp"
     ]
 }
