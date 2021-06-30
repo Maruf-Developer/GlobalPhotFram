@@ -26,7 +26,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FiretextPhotframs/squr/fram-24.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FiretextPhotframs/squr/fram-25.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FiretextPhotframs/squr/fram-26.webp"
-    ]
+    ],
     
   "portrait":[
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FiretextPhotframs/port/fram-1.webp",
