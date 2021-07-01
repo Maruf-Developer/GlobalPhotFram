@@ -1,5 +1,6 @@
-{
-  "portrait":[
+{ "portrait":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-1.webp"],
+  "portrai":[
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-3.webp",
@@ -22,8 +23,10 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/port/fram-20.webp"
     
     ],
+    "landscape":[
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-15.webp"],
     
-  "landscape":[
+  "landsape":[
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-3.webp",
@@ -44,7 +47,11 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/land/fram-18.webp"
     ],
     
-  "landscape1":[
+     "landscape1":[
+
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-8.webp"],
+    
+  "lndscape1":[
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HorrorPhotframs/lands/fram-3.webp",
