@@ -20,7 +20,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/sqr/fram-18.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/sqr/fram-19.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/sqr/fram-20.webp",
-	   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/sqr/fram-21.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/sqr/fram-21.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/sqr/fram-22.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/sqr/fram-23.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/sqr/fram-24.webp"
@@ -39,7 +39,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/port/fram-10.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/port/fram-11.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/port/fram-12.webp",
-	   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/port/fram-13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/port/fram-13.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/BubblePhotFrams/port/fram-14.webp"
      
     ],
