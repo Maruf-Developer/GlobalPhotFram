@@ -15,8 +15,6 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/squr/fram-9.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/squr/fram-10.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/squr/fram-11.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/squr/fram-12.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/sqr/dp-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/squr/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/squr/fram-13.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/squr/fram-14.webp",
