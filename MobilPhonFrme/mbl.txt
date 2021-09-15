@@ -1,8 +1,47 @@
 {
-  "portrait":[
-    "https://raw.githubusercontent.com/"
+  "square":[
+    "",
+	
+	
     ],
+    
+  "square1":[
+    "",
+	
+    ],
+    
+  "square2":[
+    "",
+	
+    ],
+    
+  "portrait":[
+    "",
+	
+    ],
+    
+  "portrait1":[
+    "",
+	
+    ],
+    
+  "portrait2":[
+    "",
+	
+    ],
+    
   "landscape":[
-     "https://raw.githubusercontent.com/"
+     "",
+	
+    ],
+    
+  "landscape1":[
+     "",
+	
+    ],
+    
+  "landscape2":[
+     "",
+	
     ]
 }
