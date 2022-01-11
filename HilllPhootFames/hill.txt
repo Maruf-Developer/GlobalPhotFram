@@ -1,8 +1,77 @@
 {
-  "portrait":[
-    "https://raw.githubusercontent.com/"
+  "square":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-16.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-18.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-19.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/squr/fram-20.webp"
     ],
+    
+  "portrait":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-16.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-18.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-19.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/port/fram-20.webp"
+    ],
+    
   "landscape":[
-     "https://raw.githubusercontent.com/"
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-16.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-18.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-19.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-20.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-21.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-22.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-23.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-24.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-25.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HilllPhootFames/land/fram-26.webp"
+     
     ]
 }
