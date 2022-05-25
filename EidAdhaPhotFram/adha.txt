@@ -59,8 +59,6 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/landmix/image_19.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/landmix/image_22.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/landmix/image_32.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/landmix/image_35.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/landmix/image_40.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidMubaraKFrame/landmix/image_46.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-3.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/EidAdhaPhotFram/land/fram-4.webp",
