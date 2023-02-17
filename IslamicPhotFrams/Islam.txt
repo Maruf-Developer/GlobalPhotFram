@@ -28,7 +28,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/squr/frame_18.webp"
     ],
     
-    {
   "squareR":[
   
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanPhotFrmes/squr/fram-1.webp",
