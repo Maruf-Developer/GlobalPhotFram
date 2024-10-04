@@ -49,13 +49,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-9.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-11.webp",    
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-9.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-10.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-15.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-16.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-18.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-19.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-20.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-24.webp"
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-10.webp"
       ],
 
 "squareJ":[
@@ -101,14 +95,6 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/port/frm-2.webp"
     ],
   "landscapeJ":[
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-3.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-4.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-7.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-8.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-9.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-11.webp",    
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-9.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/landsc/frame-10.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-15.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-16.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/land/fram-18.webp",
